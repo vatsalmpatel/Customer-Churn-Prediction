@@ -25,4 +25,4 @@ After activating the environment, do this. this will install all dependencies th
 pip install -r requirements.txt
 ```
 
-You can now run the jupyter notebook and create the model for churn prediction.✔
+You can now run the jupyter notebook and create the model for churn prediction ✔. The data is already bundeled with the repo, so you can use the same data if you want or if you find some other dataset, you can use that as well. 
